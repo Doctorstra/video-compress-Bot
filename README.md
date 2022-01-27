@@ -1,18 +1,18 @@
 # VideoCompress
-![GitHub Repo stars](https://img.shields.io/github/stars/AbirHasan2005/VideoCompress?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/AbirHasan2005/VideoCompress?color=green&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/AbirHasan2005/VideoCompress)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/AbirHasan2005/VideoCompress)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/AbirHasan2005/VideoCompress)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AbirHasan2005/VideoCompress)
-![GitHub contributors](https://img.shields.io/github/contributors/AbirHasan2005/VideoCompress?style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/AbirHasan2005/VideoCompress?color=red)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AbirHasan2005/VideoCompress)
-![GitHub](https://img.shields.io/github/license/AbirHasan2005/VideoCompress)
-[![Bot Support](https://img.shields.io/badge/Video%20Compress%20Bot-support%20group-blue)](https://t.me/LinuxRepository_OT)
+![GitHub Repo stars](https://img.shields.io/github/stars/Doctorstra/videocompress?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/Doctorstra/VideoCompress?color=green&style=flat)
+![GitHub issues](https://img.shields.io/github/issues/Doctorstra/VideoCompress)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/Doctorstra/VideoCompress)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Doctorstra/VideoCompress)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Doctorstra/VideoCompress)
+![GitHub contributors](https://img.shields.io/github/contributors/Doctorstra/VideoCompress?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/Doctorstra/VideoCompress?color=red)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Doctorstra/VideoCompress)
+![GitHub](https://img.shields.io/github/license/Doctorstra/VideoCompress)
+[![Bot Support](https://img.shields.io/badge/Video%20Compress%20Bot-support%20group-blue)](https://t.me/Dads_links)
 
 
-A Telegram Video Compressor Bot By [@AbirHasan2005](https://t.me/linux_repo). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
+A Telegram Video Compressor Bot By [@Dads_links](https://t.me/Dads_links). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
 
 ### Special Features:
 - Bot's Live Status on Channel
@@ -38,7 +38,7 @@ A Telegram Video Compressor Bot By [@AbirHasan2005](https://t.me/linux_repo). **
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/gMRsSqaUkio)
 
 ### Support Group:
-<a href="https://t.me/DevsZone"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Dads_links"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Required Configs:
 * `SESSION_NAME` - Any name of session. Better keep default.
@@ -79,19 +79,9 @@ exec - EXEC 🙄
 
 ## Follow on:
 <p align="left">
-<a href="https://github.com/AbirHasan2005"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
-</p>
-<p align="left">
-<a href="https://twitter.com/AbirHasan2005"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
-</p>
-<p align="left">
-<a href="https://facebook.com/AbirHasan2005"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
-</p>
-<p align="left">
-<a href="https://instagram.com/AbirHasan2005"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+<a href="https://github.com/Doctorstra"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 
+
 ### Credits:
-* [Jijinr](https://github.com/Jijinr)
-* [SpEcHide](https://github.com/spechide)
-* [AbirHasan2005](https://github.com/AbirHasan2005)
+* [Doctorstra](https://github.com/Doctorstra)
