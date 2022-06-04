@@ -31,7 +31,7 @@ A Telegram Video Compressor Bot By [@Dads_links](https://t.me/Dads_links). **Thi
 <a href="https://t.me/VideoCompressLogs"><img src="https://img.shields.io/badge/Demo-Bot%20Logs%20Channel-blue.svg?logo=telegram"></a>
 
 ### Deploy to Heroku:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Doctorstra/videocompress)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
 
 
 #### Video Tutorial:
